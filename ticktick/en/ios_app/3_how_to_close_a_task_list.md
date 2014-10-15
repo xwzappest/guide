@@ -1,0 +1,2 @@
+### 3. How to close a task list?
+In order to keep the interface clean and improve app performance, you can close inactive task lists. Slide the screen to the right first. Then, click “Edit” and choose a task list. On the next page, click on “close”. Please note after closing a list, tasks within that list will not be displayed in “All”, “Today” and “Next 7 days”. In addition, tasks of closed lists won’t be reminded any more.
