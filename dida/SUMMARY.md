@@ -1,12 +1,6 @@
 # Summary
 
 * [关于滴答清单](README.md)
-   * [滴答清单是什么?](what_is_ticktick.md)
-   * [我需要什么设备来使用滴答清单?](which_device_is_needed.md)
-   * [滴答清单是免费的吗?](is_ticktick_free.md)
-   * [如何付费升级为高级账户？](how_to_upgrade_to_ticktick_pro.md)
-   * [滴答清单有开放API吗?](api.md)
-* [开始使用滴答清单 ](ticktick_web_start/README.md)
 * [网页端](ticktick_web_app/README.md)
    * [账户设置](ticktick_web_app/account_settings.md)
    * [偏好设置](ticktick_web_app/preference_settings.md)
