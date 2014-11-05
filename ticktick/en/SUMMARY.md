@@ -1,11 +1,6 @@
 # Summary
 
 * [About TickTick](README.md)
-   * [What is TickTick?](what_is_ticktick.md)
-   * [Which device is needed?](which_device_is_needed.md)
-   * [Is TickTick free?](is_ticktick_free.md)
-   * [How to upgrade to TickTick PRO?](how_to_upgrade_to_ticktick_pro.md)
-   * [Does TickTick have an API?](does_ticktick_have_an_api.md)
 * [TickTick web app](ticktick_web_app/README.md)
    * [Account Settings](ticktick_web_app/account_settings.md)
    * [Preference Settings](ticktick_web_app/preference_settings.md)
@@ -28,6 +23,7 @@
        * [5. How to upgrade to/renew Pro account?](android_app/5_how_to_upgrade_torenew_pro_account.md)
        * [6. How to lock the app?](android_app/6_how_to_lock_the_app.md)
        * [7. How to choose app theme?](android_app/7_how_to_choose_app_theme.md)
+       * [8. How to change my account info?](android_app/8_how_to_change_my_account_info.md)
    * [Task Management](android_app/task_management.md)
        * [1. How to create a new task?](android_app/1_how_to_create_a_new_task.md)
        * [2. How to batch edit tasks?](android_app/2_how_to_batch_edit_tasks.md)
