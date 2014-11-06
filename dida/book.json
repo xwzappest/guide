@@ -1,0 +1,18 @@
+{
+    "plugins": [
+        "gitbook-style-rewrite"
+    ],
+    "pluginsConfig": {},
+    "links": {
+        "sidebar": {
+            "回到首页": "https://dida365.com"
+        },
+        "sharing": {
+            "google": false,
+            "facebook": false,
+            "twitter": false,
+            "weibo": true,
+            "all": false
+        }
+    }
+}
