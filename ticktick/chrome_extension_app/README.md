@@ -1,2 +1,2 @@
 # Chrome Extension App
-![](/images/extension.jpg)
+![](../images/extension.jpg)
