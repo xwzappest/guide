@@ -3,4 +3,3 @@ The “Tags” list is hidden by default. So, you should first show it by editin
 
 ![](../images/addtags.jpg)
 
-
