@@ -14,6 +14,7 @@
    * [Mail Service](ticktick_web_app/mail_service.md)
    * [Calendar Subscription](ticktick_web_app/calendar_subscription.md)
    * [Calendar View](ticktick_web_app/calendar_view.md)
+   * [Mini Calendar](ticktick_web_app/mini_calendar.md)
    * [Revision History](ticktick_web_app/revision_history.md)
 * [Android App](android_app/README.md)
    * [Installation & Account](android_app/installation_&_account.md)
