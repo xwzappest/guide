@@ -2,8 +2,8 @@
 
 * [About TickTick](README.md)
 * [TickTick web app](ticktick_web_app/README.md)
-   * [Account Settings](ticktick_web_app/account_settings.md)
    * [Preference Settings](ticktick_web_app/preference_settings.md)
+   * [Account Settings](ticktick_web_app/account_settings.md)
    * [Add New Task](ticktick_web_app/add_new_task.md)
    * [Add Checklist](ticktick_web_app/add_checklist.md)
    * [Add Recurring Tasks](ticktick_web_app/add_recurring_tasks.md)
@@ -18,7 +18,7 @@
    * [Revision History](ticktick_web_app/revision_history.md)
    * [Comment](ticktick_web_app/115comment.md)
    * [Import](ticktick_web_app/duplicate.md)
-   * [Assign tasks](ticktick_web_app\assign_tasks)
+   * [Assignment](ticktick_web_app/assign_tasks.md)
 * [Android App](android_app/README.md)
    * [Installation & Account](android_app/installation_&_account.md)
        * [1. How can I get the TickTick Android app?](android_app/1_how_can_i_get_the_ticktick_android_app.md)
