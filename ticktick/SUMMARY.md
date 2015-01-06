@@ -10,6 +10,7 @@
    * [Comment a Task](ticktick_web_app/comment_a_task.md)
    * [List Management](ticktick_web_app/list_management.md)
    * [List Sharing](ticktick_web_app/list_sharing.md)
+   * [List Close](ticktick_web_app/list_close.md)
    * [Mail Service](ticktick_web_app/mail_service.md)
    * [Calendar Subscription](ticktick_web_app/calendar_subscription.md)
    * [Calendar View](ticktick_web_app/calendar_view.md)
