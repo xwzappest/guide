@@ -48,6 +48,7 @@
        * [2. How to edit/rename/delete a task list?](android_app/2_how_to_editrenamedelete_a_task_list.md)
        * [3. How to close a task list?](android_app/3_how_to_close_a_task_list.md)
        * [4. How to share a task list?](android_app/4_how_to_share_a_task_list.md)
+       * [5. How to assign a task list?](android_app/how_to_assign_a_task_list.md)
        * [5. How to change the order of task lists?](android_app/5_how_to_change_the_order_of_task_lists.md)
        * [6. How to hide a task list in “All” view?](android_app/6_how_to_hide_a_task_list_in_all_view.md)
    * [Calendar](android_app/calendar.md)
