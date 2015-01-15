@@ -1,3 +1,6 @@
 ## How to add a new task with due date and reminder time?
-You can add new tasks in the quick add bar directly. After inputting the task content, you can add ‘*’ followed by the date & time to quickly add a new task with due date & reminder to be set automatically. Tasks will be saved in your chosen list. If no list is selected, tasks will be categorized in ‘inbox’ by default.
+You can add new tasks in the quick add bar directly. After entering the task content, you can add "*" and suggested due dates will appear for you to choose. Or, you can type due dates & reminder time by yourself. Then, tab the "Enter" key and task will be saved in "Inbox" automatically.
+
+If you wish to save tasks in another list, you can add "^" after the task content so that you can choose list when adding new tasks.
+
 ![](../images/image007.png)

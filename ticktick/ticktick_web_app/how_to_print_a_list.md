@@ -1,2 +1,2 @@
 # 4. How to print a list?
-Click the downward arrow and choose "Print". Then you set the page and have a print preview of the list.
+Click the downward arrow of a list and choose "Print". Before printing, you will have a print preview where you can set paper size, margins and etc. 

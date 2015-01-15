@@ -1,3 +1,4 @@
 # 3. How to share a list with others ?
-Click the downward arrow to choose “share” and enter the email address of recipient directly. Then, the recipient will be notified to accept.
+Click the downward arrow of a list to choose "share" and then enter the email address of recipient directly. The recipient will be notified by email to accept sharing invitaion.
+
 ![](../images/image1.8W.png)

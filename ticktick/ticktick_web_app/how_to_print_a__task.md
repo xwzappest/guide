@@ -1,3 +1,4 @@
 # 5. How to print a task?
-Select a task, and you can choose “Print” from the option menu. Then you set the page and have a print preview of the list.
+Click the upward arrow on bottom right corner in task detail page and select "Print" to print your selected tasks. Before printing, you can have a print preview where you can change paper size, margins and ect.
+
 

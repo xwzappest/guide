@@ -1,4 +1,6 @@
 # 6. How to assign a task to someone?
-You can assign tasks to others who receive the shared task. Click the icon of people in the shared task to choose who you want to assign, and then you will find the avatar of the assigned person at the end of the shared task item.
+Assiging a task currently is only possible within a shared list.
+
+Click the icon of people in task detail page and choose the one who you want to assign to. And then, you will see the avatar of the assigned person at the end of your selected task. The assigned member will receive a notification. 
 
 ![](../images/image1.14.6W.png)

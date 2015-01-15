@@ -1,6 +1,7 @@
-# 5. How can I see the date which has tasks in the calendar?
-“Mini Calendar” is a premium feature available for PRO users only, which allows you to view tasks and plan agenda more easily.
-1.Click the avatar on top right corner>“Labs” to enable "mini calendar".
+# 5. How can I know at which date do I have tasks?
+"Mini Calendar" is a premium feature available for PRO users only, which allows you to know at which date do you have tasks quickly.
+
+1.Click the avatar on top right corner to enter "Labs" to enable "Mini Calendar".
 
 2.Then, a calendar will be displayed on the bottom of left panel.
 ![](../images/image027.png)
