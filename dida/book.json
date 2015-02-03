@@ -1,7 +1,5 @@
 {
-    "plugins": [
-        "gitbook-style-rewrite"
-    ],
+    "plugins": [],
     "pluginsConfig": {},
     "links": {
         "sidebar": {
