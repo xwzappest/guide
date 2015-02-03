@@ -1,6 +1,12 @@
 # Summary
 
-* [关于滴答清单](README.md)
+* [关于滴答清单](About_dida/READMEAbout_dida/.md)
+   * [滴答清单是什么?](About_dida/what_is_ticktick.md)
+   * [我需要什么设备来使用?](About_dida/which_device_is_needed_to_use_ticktick.md)
+   * [滴答清单是免费的吗?](About_dida/is_ticktick_free.md)
+   * [如何付费升级为高级账户？](About_dida/how_to_upgrade_to_ticktick_pro.md)
+   * [如何将TickTick的数据迁移到滴答清单？](About_dida/data_migration.md)
+   * [滴答清单有开放API吗?](About_dida/does_ticktick_have_an_api.md)
 * [网页端](ticktick_web_app/README.md)
    * [账户设置](ticktick_web_app/account_settings.md)
    * [偏好设置](ticktick_web_app/preference_settings.md)
