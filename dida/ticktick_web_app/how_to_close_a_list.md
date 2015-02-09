@@ -1,6 +1,4 @@
-##How to close an inactive list temporarily?
-Closing inactive lists can keep interface concise and improve performance.
-
-Click the downward arrow of a list to choose "close" and click "OK" for confirmation.
-
-Once a list is closed, tasks of this list will not be displayed in "All", "Today", "Next 7 Days" and search results. In addition, tasks of this list will not be reminded anymore.
+##如何关闭一个清单？
+为了保持界面清爽, 同时提高应用运行速度, 您可以将不常用的或者不活跃的任务列表暂时关闭。
+<br/>点击列表旁边的倒三角按钮，再选择“关闭”。
+<br/>关闭列表后, 其任务将不再被展示在“所有”, “今天”, “接下来七天” 和搜索结果中。同时, 列表中的任务也不会再收到提醒。

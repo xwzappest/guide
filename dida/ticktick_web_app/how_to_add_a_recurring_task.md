@@ -1,7 +1,5 @@
-##How to add a recurring task?
-If you have tasks that need to be done on a regular interval such as check bank statement on 15th of each month, then, you can create recurring tasks.
-
-After enterring task, click the "calendar" icon on the right panel and then click the drop-down menu.
-
-You can choose such as Daily/Weekly/Monthly/Yearly/ or click "Advanced" to customize the repeating interval and repeating type (repeat from completion date or repeat from due date).
-![](../images/image011.png)
+## 如何设置重复任务
+如果你需要做一些有周期性的事情，像每月15号查看信用卡账单，可以创建重复任务。
+<br />点击到期时间, 在弹出的日期选择框中可以设置该任务为重复任务。
+<br />你可以选择“每天”、“每周”、“每月”、“每年”的间隔重复；点击高级, 可以更为个性化的设置重复任务，如该任务是以到期日重复还是以实际完成日期重复。
+![](../images/image007.png)

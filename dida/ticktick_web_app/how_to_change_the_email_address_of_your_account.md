@@ -1,2 +1,2 @@
-##How to change the email address of my account?
-Click the avatar on top right corner to enter "Settings" and click "Account", then click your current email and you will be asked to enter your new email address.
+##如何更改账号的邮箱地址?
+点击右上角头像>设置>账户>点击自己的邮箱地址>修改，修改之后需要到新邮箱地址验证邮箱。

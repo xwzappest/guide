@@ -1,2 +1,2 @@
-##How to change password?
-Click the avatar on top right corner to enter "Settings"> "Account". Then, click "change password" and you are able to enter your new password.
+##如何修改密码?
+点击右上角头像>设置>账户>修改密码，修改成功即可。

@@ -1,10 +1,5 @@
-##How to add tag to a task?
-"Tag" is another way to group tasks, which is especially used to add context for your tasks.
-
-First, click the avatar on top right corner to enter "Labs" to enable "Tags"
-
-Then you can start creating tasks by adding the "#" symbol in front of any word or phrase. You can add up to 5 tags to each task.
-
-When clicking on the "Tags" tab on the left panel, you will be directed to the list, where all tasks labeled by this tag will be displayed.
-
-![](../images/image1.10.2W.png)
+##如何给任务添加标签?
+给任务添加标签有便于您更加快捷的管理同一类别的任务。
+<br/>标签列表是默认隐藏的, 因此您首先要将其设置为显示:右上角头像>实验功能>分类标签>启用。
+<br/>给任务添加列表只需要您在需要标注的词语或者字前加 “#” 即可: 比如“#工作”，需要注意的是，标签“#XX”前后需要留有一个空格，方便系统识别
+<br/>您可以给一个任务添加最多五个标签; 当点击标签时, 所有被打上该标签的任务都会显示出来。

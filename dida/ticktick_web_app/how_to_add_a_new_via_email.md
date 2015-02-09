@@ -1,6 +1,4 @@
-##How to add a new task via email?
-Emailing a task to TickTick is possible. Click the avatar on top right  corner to enter "Settings" > "Mail Service".
-
-There, you will see a designated email address. Email a task to that address and it will be converted as a to-do item in your TickTick account automatically. Or, you can email your tasks to [todo@mail.ticktick.com]( todo@mail.ticktick.com) with your TickTick registered email address directly.
-
-The subject of the email will be the title of the task while the content of the email will be the task details. Beside, you can add date and reminder time on the email subject. For example, you can write “Go to Starbucks with Frank tomorrow 4pm” in the subject, then you will find this task in TickTick’s “Inbox” with due date (tomorrow) and reminder time (4 pm).
+##邮件服务
+除了直接在网页端添加任务, 你也可以通过邮件创建任务。
+<br />点击右上角头像>设置>邮件服务, 会自动生成一个你专属的邮件地址, 您只需要直接在邮件标题中将任务内容写入, 通过任意邮箱发送到该地址, 任务便会自动建立。
+<br />点击重置, 会重新为您生成一个新的邮件地址。或者, 您可以使用您在滴答清单上注册的邮箱, 直接将任务发送至[todo@mail.dida365.com](todo@mail.dida365.com), 任务同样会自动生成。 您同时可以在邮件标题中加入时间如November 13th 来快速设定任务到期时间。

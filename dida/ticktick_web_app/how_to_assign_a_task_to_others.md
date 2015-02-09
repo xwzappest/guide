@@ -1,6 +1,3 @@
-##How to assign a task to others?
-Assiging a task currently is only possible within a shared list.
-
-Click the icon of people in task detail page and choose the one who you want to assign to. And then, you will see the avatar of the assigned person at the end of your selected task. The assigned member will receive a notification.
-
-![](../images/image1.14.6W.png)
+##如何指派任务给其他人?
+你只能在分享给他人的清单里指派任务。
+<br/>点击任务详情界面的指派图标，选择你要指派的对象或者是不指派给任何人。被指派者会在应用内收到通知。

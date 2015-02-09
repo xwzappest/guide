@@ -1,2 +1,2 @@
-##How to add a new list?
-On the left panel, click the "+" icon next to list to add a new list. You will be asked to add a list name, pick a color and select whether to show this list in "All" list.
+## 清单管理
+点击 ‘+’ 按钮可以直接创建一个您的自定义清单, 并选择颜色予以区分；选择是否在“所有”中显示。

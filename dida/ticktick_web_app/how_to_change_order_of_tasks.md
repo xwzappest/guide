@@ -1,4 +1,4 @@
-##How to change order of tasks?
-Changing order of tasks within a list is possible. Select a list first and click the "View" icon on top right corner of the middle panel. Then, you can choose to sort tasks by due dates, by title, by order and by priority.
+##如何对任务进行排序?
+“收集箱”以及所有您自己建立的清单都可以进行自定义排序, 日期排序, 字母排序和优先级排序。
+<br/>如果选择自定义排序, 则可以长按来拖动任务进行排序。“所有”、“今天”、“最近7天”目前暂不支持自定义排序。
 
-If you choose "by title", tasks will be ordered alphabetically. If you choose "by order", then, you can drag tasks to manually change their order per your own preferences. But manually changing order is not applicable to the "All", “Today" & "Next 7 days" lists. 

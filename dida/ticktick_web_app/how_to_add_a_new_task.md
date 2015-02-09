@@ -1,6 +1,7 @@
-## How to add a new task?
-You can add new tasks in the quick add bar directly. Then, click the "due date" icon on the right panel to assign a due date. Or, after entering the task content, you can add "*" and suggested due dates will appear for you to choose. Or, you can type due dates & reminder time by yourself. Then, tab the "Enter" key and task will be saved in "Inbox" automatically.
+## 添加新任务
+直接在中间页面顶部的输入栏输入任务内容, 按回车键保存 ;任务会保存在选中的对应列表中; 若没有选中列表,则任务默认保存在‘收集箱’中。
+<br/> 在输入栏内输入“^”，可以将任务添加到指定清单;
+<br/> 在输入栏内输入“*”，可以快速为添加的任务设置日期；
+<br/> 在右侧栏任务详情页面可以切换至列表模式来建立购物列表, 打包列表等; 子任务和任务之间可以互相拖动。
 
-If you wish to save tasks in another list, you can add "^" after the task content so that you can choose list when adding new tasks.
 
-![](../images/image007.png)

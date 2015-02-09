@@ -1,6 +1,4 @@
-##How to check revision history of a task?
-This feature currently is available for Pro users only. So, you have to click avtar on top right corner to enter "Labs" to enable it first.
-
-After that, you can select a task, click the upward arrow on bottom right corner in task detail page and choose "Revision History" to check all modification records.
-
-![](../images/image1.14.4W.png)
+##如何使用修改历史功能?
+修改历史功能目前仅限高级用户使用, 能够让您追踪到每一个任务的修改记录。
+<br/>首先, 在“实验功能”中启用“修改历史”。
+<br/>启用该功能后, 选中一个任务, 在右侧栏任务详细界面点击右下角菜单,选择“版本记录”即可清晰看到该任务的历史修改记录。
