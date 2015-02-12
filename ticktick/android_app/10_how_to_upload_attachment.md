@@ -1,2 +1,5 @@
-### How to upload attachment?
-Select a task and click “attachment” from the option menu. Then, select the attachment type (can be image, audio, video or other regular files). After it is uploaded, you can view in task detail page and long pressing the attachment will trigger editing actions such as save & delete.
+##How to upload an attachment in a task?
+You can upload images, audios, videos or other regular files in tasks. Select a task and click “Attachment” from the option menu. After it is uploaded, you can view it in task detail page and long pressing the attachment will trigger editing actions such as save & delete.
+
+
+![](../images/image2.2.9X.png)

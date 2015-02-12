@@ -1,5 +1,5 @@
 ##Is TickTick free?
-TickTick always have free account available. For users who wish to have full access to premium features, you can subscribe to Pro account on monthly or yearly basis. Free account has limits:
+TickTick always has free account available. For users who wish to have full access to premium features, you can subscribe to Pro account on monthly or yearly basis. Free account has limits:
 
 1.Number of task lists: 19 ( “All”, “Today”, “Next 7 days” and “Inbox” not included)
 

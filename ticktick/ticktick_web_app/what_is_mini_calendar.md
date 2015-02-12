@@ -1,7 +1,7 @@
-##What is "Mini Calendar"?
-"Mini Calendar", just as its name implies, is a small calendar which allows you to know at which date you have tasks quickly. It is a premium feature available for Pro users only,
+##What is “Mini Calendar”?
+“Mini Calendar”, just as its name implies, is a small calendar which allows you to know at which date you have tasks quickly. It is a premium feature available for Pro users only.
 
-1.Click the avatar on top right corner to enter "Labs" to enable "Mini Calendar".
+1.Click the avatar on top right corner to enter “Labs” to enable “Mini Calendar”.
 
 2.Then, a small calendar will be displayed on the bottom of left panel.
 ![](../images/image027.png)

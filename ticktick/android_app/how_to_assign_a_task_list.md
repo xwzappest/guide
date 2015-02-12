@@ -1,4 +1,5 @@
-# How to assign a task list?
-You can assign tasks to others who receive the shared task. Click the the shared task and choose the option menu on the top right, then click "Assign to". After the assignment, you will find the avatar of the assigned person on the top of the shared task page.
+## How to assign a task list to someone?
+You can assign tasks to a recipient of a shared list. Choose a shared list, and click a task, then click the option menu on the top right, and you can click "Assign to" to choose a recipient in the shared list to assign a task.
 
-![](../images/image2.3.6W.png)
+
+![](../images/image2.3.10.3X.png)

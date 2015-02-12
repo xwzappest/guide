@@ -1,4 +1,8 @@
-### How to set due date & reminder for a task?
-After inputting the task content, click the icon of "Calendar">"Custom" or you can click "Due Date" directly to choose due date in calendar, click the “clock” icon to set reminder time and tap the “circle” icon to set repetition interval. By setting reminder time, you can choose to be reminded on time or earlier. And for repeating tasks, you can choose the task to recur upon due date or completion date.
+## How to set due date & reminder of a task?
+Click the icon of "Calendar" above task content, then you can choose "Custom"/“Today”/“Tomorrow” to set due date or you can click "Due Date" directly.
 
-![](../images/image2.1.5.3W.png)
+In the setting page, you can click the time near the icon of “Clock” to set reminder time.
+
+
+
+
