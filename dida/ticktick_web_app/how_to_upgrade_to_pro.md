@@ -1,8 +1,7 @@
-##How to upgrade to Pro?
-Click the avatar on top right corner to enter "Settings" and click "Account". Then you can click "Subscribe" and choose subscription period (monthly or annual) to complete purchase via Paypal. You can also subscribe TickTick Pro on your mobile app via "Google Wallet" or "iTunes" according to your device.
+###升级成高级账户
 
-If you have been offered a TickTick Pro gift code, you can click the avatar on top right corner to enter "More" > "Redeem" to enter your gift code to upgrade your account.
+点击右上角头像进入“设置”,然后单击“帐户”。然后您可以单击“订阅”,选择订阅期(月或年)通过支付宝完成购买。
+<br/ >你也可以在滴答清单应用中通过“支付宝”或“iTunes”订阅滴答清单Pro。
+<br/ >如果你已经拥有滴答清单Pro兑换码,您可以单击右上角头像进入“更多”>“兑换”，输入你的兑换码升级您的帐户。
 
-![](../images/image1.13W.png)
-
-
+![](../images/image2.26.png)

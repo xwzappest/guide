@@ -1,10 +1,11 @@
-##What is "Calendar View"?
-"Calendar View" shows tasks based on time frame just like Calendar does, which is more intuitive and clear. It is a premium feature available for Pro users only.
+##日历视图
 
-1.Click the avatar on top right corner to enter "Labs" and enable "Calendar View".
+“日历视图”显示任务像日历一样,更直观、清晰。它是一个仅对付费用户开放的高级功能。
 
-2.Then you will see the "Calendar" tab appear below the "Next 7 Days" on the left panel.
+1. 单击右上角头像进入“实验功能”,启用“日历视图”功能。
 
-3.Click "Calendar" and you are able to check your tasks in a more familiar way just like in Calendar. Click on any date to add tasks directly or click the task to edit.
+2. 然后你会看到下面的“日历”选项卡出现在左边的“最近7天”下面。
 
-![](../images/image1.10.3W.png)
+3. 点击“日历”,你可以检查你的任务在一个更熟悉的方式就像在日历。点击任何日期或单击任务编辑直接添加任务。
+
+![](../images/image2.53.png)

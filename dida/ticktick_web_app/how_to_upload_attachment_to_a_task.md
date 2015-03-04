@@ -1,3 +1,6 @@
-## How to upload attachment to a task?
-Select a task first, click the upward arrow on bottom right corner in task detail page and choose "Upload" to add attachment to your tasks. Image, record and frequently used file types such as word, excel are all supported.
-![](../images/image1.14.2W.png)
+## 上传任务附件
+
+先选定一个任务,在任务详细信息页面右下角，单击向上箭头“∧”,选择“附件上传”将附件添加到你的任务。
+<br/ >照片,音频和经常使用的文件类型如word,excel都是支持的。
+
+![](../images/image2.37.png)
