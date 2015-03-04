@@ -1,6 +1,3 @@
-##How to comment on a task?
-"Comment" is always used to add extra remarks to a task. click the upward arrow on bottom right corner in task detail page and select "comment" to add your remarks.
-
-Within a shared list, all shared members can comment on any task of this list to realize real chat & communication.
-
-![](../images/image1.14.3W.png)
+##添加评论
+在右侧栏任务的详细界面, 点击右下角的“∧”图标，选择“评论”, 则可对该任务进行评论。
+<br/ >若该任务是共享的任务, 则共享成员均能对此任务发表评论。

@@ -1,4 +1,6 @@
-## How to create a checklist?
-Enter task title in "quick add bar" first and then click the "checklist" icon in the right panel to create a checklist. Checklist is always used to add subtasks such as shopping list: break big tasks into small ones such as family trip arrangement or create tasks invoving multile steps.
+## 创建列表任务
+成功创建任务后，右侧任务详情界面，点击如图所示位置的“列表”，将文本模式转为列表模式。
+<br/> 列表任务一般用来添加子任务如购物清单；或者是将大任务拆分成小任务或者具体步骤。
 
-![](../images/image009.png)
+
+

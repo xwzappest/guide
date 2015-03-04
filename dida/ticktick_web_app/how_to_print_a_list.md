@@ -1,2 +1,2 @@
-##How to print a list?
-Click the downward arrow of a list and choose "Print". Before printing, you will have a print preview where you can set paper size, margins and etc.
+##打印清单
+单击向下箭头“∨”,选择“打印”。在印刷之前,你将有一个打印预览,您可以设置纸张大小,边距等。

@@ -1,2 +1,2 @@
-##How to print a task?
-Select a task first, click the upward arrow on bottom right corner in task detail page and choose "Print" to print your selected tasks. Before printing, you can have a print preview where you can change paper size, margins and ect.
+##将任务打印出来
+先选择一个任务,在右下角任务详细信息页面点击上箭头"∧",选择“打印”。在印刷之前,您可以打印预览,您可以改变纸张大小,边距等。

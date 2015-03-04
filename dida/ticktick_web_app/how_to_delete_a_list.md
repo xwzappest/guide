@@ -1,2 +1,3 @@
-##How to delete a list?
-Click the downward arrow of a list to choose "Delete" and click "OK" for confirmation. Please note once a list is deleted, all tasks within that list will be removed. So, be cautious when deleting a list.
+##删除清单
+单击向下箭头“∨”选择“删除”,然后单击“OK”确认。
+<br/ >请注意一旦删除列表,这个列表中的所有任务将被删除。所以,删除列表时小心谨慎。

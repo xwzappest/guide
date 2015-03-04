@@ -1,5 +1,4 @@
-##How to set priority of a task?
-Select a task and then click the icon of "!!!" on the top right corner in task detail page. You can set "High", "Medium", "Low" and "No Priority" for a task.
+##设置任务优先级
 
-![](../images/image1.14.7.png)
+选择一个任务,然后点击任务详细信息页面的右上角"!!!"图标。您可以设置“高”,“中”,“低”和“无优先级”。
 

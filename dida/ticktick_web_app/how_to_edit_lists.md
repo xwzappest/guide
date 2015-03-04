@@ -1,4 +1,3 @@
-##How to edit lists?
-Click the downward arrow of a list, then click "Edit" and you will be able to change the list name, pick color and select whether to show this list in "All" list.
+##编辑清单
 
-![](../images/image1.7W.png)
+单击向下箭头“∨”,然后单击“编辑”,你可以改变清单名称,或者选择颜色,或者选择是否在“所有”中显示该清单的内容。

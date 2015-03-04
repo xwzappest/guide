@@ -1,5 +1,5 @@
-##How to generate and import backup?
-Click the avatar on top right corner to enter "Settings" > "Account". Then, click "Generate Backup" and the button will be changed to "download" so that you can export backup in a .json file.
+##生成和导入备份
 
-If you need import backup later, you can click "import backup" to upload the previously downloaded file.
+点击右上角头像，进入“设置”>“帐户”。然后,点击“生成备份”按钮，再点击“下载”,这样您就可以备份在一个以json为后缀的备份文件。
 
+如果你需要导入备份后,您可以单击“导入备份”，再上传以json为后缀的文件。

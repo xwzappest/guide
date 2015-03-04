@@ -1,20 +1,16 @@
-##How to subscribe my calendar in TickTick?
+##如何在滴答清单中显示日历事件?
+
 This feature allows you to subscribe events from other calendar services such as Google Calendar in TickTick.
 It is a premium feature open to PRO users only.
 
-1.Click the avatar on top right corner to enter "Labs" to enable "Calendar Subscription".
+这个功能允许您从其他订阅事件在TickTick日历服务,如谷歌日历。
+这是一个高级功能仅向专业用户开放。
 
-2.The "Calendar Subscription" tab will appear    above "Completed" list on the left panel
+1. 点击右上角头像，选择“实验功能”,开启“日历订阅”。
 
-![](../images/image023.png)
+2. 在左侧面板，“日历订阅”选项卡会出现在“已完成”的上面。
 
-3.Click "+" and input the calendar URL you want to subscribe.
+3. 点击“+”,输入你想订阅日历的URL。
 
-![](../images/image025.png)
-
-Please note the calendar URL can be got from your calendar settings. Take Google Calendar as an example:
-
-![](../images/CS1.png)
-
-![](../images/calendar subscription2.png)
+请注意日历URL可以从日历设置。以谷歌日历为例:
 

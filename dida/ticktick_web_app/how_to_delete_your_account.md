@@ -1,3 +1,4 @@
-##How to delete my account?
-Click the avatar on top right corner to enter "Settings" > "Account". Then, click "Delete account". Please note deleting account will remove all data from TickTick and therefore, for cautious purpose, you will be asked to enter your password for confirmation. If you've forgotten your password, you are suggested to reset your password first.
-
+##删除账号
+点击右上角头像进入“设置”>“帐户”。然后,点击“删除账户”。
+<br/ >请注意从滴答清单删除帐户将删除所有数据,为了防止误操作,您将被要求输入你的密码确认。
+<br/ >如果你忘了你的密码,建议先重置你的密码。

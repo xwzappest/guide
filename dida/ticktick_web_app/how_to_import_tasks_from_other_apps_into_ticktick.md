@@ -1,6 +1,4 @@
-##How to import tasks from other apps into TickTick?
-TickTick allows you to import tasks from other to-do apps like Astrid, Wunderlist and so on.
+##从其他应用中导入任务信息
 
-Click the avatar on top right corner to Enter "More" > "Import". Then you can choose different channels to upload files into TickTick.
-
-![](../images/image1.12W.png)
+滴答清单允许从其他应用内导入任务信息，比如奇妙清单、Toodledo等。
+<br/ >点击右上角头像，进入“更多” > “导入”，然后选择对应的渠道上传备份文件到滴答清单。
