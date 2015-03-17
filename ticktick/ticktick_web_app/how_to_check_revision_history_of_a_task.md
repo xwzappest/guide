@@ -1,6 +1,8 @@
-##How to check revision history of a task?
-This feature currently is available for Pro users only. So, you have to click avtar on top right corner to enter “Labs” to enable it first.
+###How to check revision history of a task? <mark>[Pro only]
+1.Click avtar on top right corner to enter “Labs” to enable it first.
 
-After that, you can select a task, click the upward arrow on bottom right corner in task detail page and choose “Revision History” to check all modification records.
+2.Select a task, and click the upward arrow on bottom right corner in task detail page.
 
-![](../images/image1.14.4W.png)
+3.Choose “Revision History” to check all modification records.
+
+![](../images/revision.png)

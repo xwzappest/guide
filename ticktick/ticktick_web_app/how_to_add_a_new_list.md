@@ -1,2 +1,4 @@
-##How to add a new list?
-On the left panel, click the　“＋”　 icon next to list to add a new list. You will be asked to add a list name, pick a color and select whether to show this list in “All” list.
+###How to add a new list?
+1.Click the “＋” icon near “List” on the left panel.
+
+2.Enter a list name and select a color.

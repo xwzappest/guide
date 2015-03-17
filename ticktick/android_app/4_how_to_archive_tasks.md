@@ -1,5 +1,5 @@
-## How to delete completed tasks in each task list?
-When you check off a task, it will move to the end of a task list as a completed one. For these completed tasks, you can choose to archive them from the option menu on the top right, then these completed tasks will be stored within “Completed” list.
+### How to clear completed tasks in each task list?
+When you check off tasks, they will move to the end of their task lists as completed tasks. For these completed tasks, you can choose to Archive (clear) them from the option menu on the top right.
 
-![](../images/image2.2.4X.png)
+![](../images/archive.png)
 

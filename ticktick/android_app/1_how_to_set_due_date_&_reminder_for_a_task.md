@@ -1,7 +1,11 @@
-## How to set due date & reminder of a task?
-Click the icon of "Calendar" above task content, then you can choose "Custom"/“Today”/“Tomorrow” to set due date or you can click "Due Date" directly.
+## How to set reminder of a task?
+A reminder time can be set within a specific due date. You can:
 
-In the setting page, you can click the time near the icon of “Clock” to set reminder time.
+1.Click the due date in the task detail page first.
+
+2.Click the upward an downward arrow near the clock-shaped icon to adjust reminder time.
+
+Moreover, you can click the the clock-shpaed icon to set default reminder such as 1 day before the exact reminder time.
 
 
 

@@ -1,2 +1,5 @@
-### How to remove due date & reminder for a task?
-Choose a task and click “Custom”, then, click the “trash” icon on the top left corner.
+### How to clear due date & reminder settings of a task?
+
+1.Click the due date in the task detailed page.
+
+2.Click “Clear” at the bottom in due date setting page.

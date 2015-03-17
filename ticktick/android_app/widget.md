@@ -1,2 +1,1 @@
 ##Widget
-![](/images/widget.jpg)

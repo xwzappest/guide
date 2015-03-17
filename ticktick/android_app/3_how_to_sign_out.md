@@ -1,2 +1,7 @@
-## How to sign out?
-If you want to sign in with another account, or you do not want to set your account as a default account when you enter TickTick, you should sign out. You can slide the screen to the right from margin or click the bulleted list icon on the top left of the toolbar and then click your accoount name. After that you will find a option menu on the top right corner, click it and then choose “Sign Out”.
+### How to sign out?
+
+1.Slide the screen to the right from margin or click the bulleted list icon on the top left of the toolbar.
+
+2.Click your accoount name.
+
+3.Click the option menu on the top right corner and then choose “Sign Out”.

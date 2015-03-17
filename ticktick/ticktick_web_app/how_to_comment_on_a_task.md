@@ -1,6 +1,11 @@
-##How to comment on a task?
-“Comment” is always used to add extra remarks to a task. click the upward arrow on bottom right corner in task detail page and select “Comment” to add your remarks.
+###How to comment on a task?
 
-Within a shared list, all shared members can comment on any task of this list to realize real chat & communication.
+1.Select a Task.
 
-![](../images/image1.14.3W.png)
+2.Click the upward arrow on bottom right corner in task detail page.
+
+3.Select “Comment” to add your remarks.
+
+“Comment” is always used to add extra remarks to a task. Within a shared list, all shared members can comment on any task of this list to realize real chat & communication.
+
+![](../images/comment.png)

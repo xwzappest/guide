@@ -1,9 +1,21 @@
-## How to change the order of tasks?
-Except “Today” and “Next 7 Days”, tasks under a specific list can be sorted by order, due date, title, and priority. Shared tasks can be sorted by assignee. And Tasks in “All” can only be sorted by due date, title, priority. You can click the option menu on the top right after you choose a list, then click “Sort”.
+### How to change the order of tasks?
+
+1.Select a list first.
+
+2.Click the option menu on the top right, then click “Sort”.
+
+Tasks under self-defined lists and “Inbox” can be sorted by order, due date, title, and priority. Shared tasks can also be sorted by assignee.
 
 ![](../images/image2.2.3.2X.png)
 
-Under “Inbox” and your List, you can manually drag tasks to reorder them if you choose to sort by order. You can long press a task, then press the “move” icon at the end of a task to drag.
+
+**-How to manually drag tasks?**
+
+1.Sort tasks by order.
+
+2.Long press a task.
+
+3.Press the “Move” icon (at the end of each task) to drag tasks.
 
 ![](../images/image2.2.3.3X.png)
 

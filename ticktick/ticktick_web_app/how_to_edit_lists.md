@@ -1,4 +1,8 @@
-##How to edit lists?
-Click the downward arrow of a list, then click “Edit”and you will be able to change the list name, pick color and select whether to show this list in “All” list.
+###How to edit lists?
+1.Click the downward arrow of a list.
+
+2.Then click “Edit”.
+
+3.Change its name, color etc.
 
 ![](../images/image1.7W.png)

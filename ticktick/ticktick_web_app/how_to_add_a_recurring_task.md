@@ -1,7 +1,17 @@
-##How to add a recurring task?
-If you have tasks that need to be done on a regular interval such as check bank statement on 15th of each month, then, you can create recurring tasks.
+###How to add a recurring task?
+1.Click the due date in the right panel.
 
-After enterring task, click the “calendar” icon on the right panel and then click the drop-down menu.
+2.Click the “No Repeat” bar. You can choose such as Daily/Weekly/Monthly/Yearly/ or click “Advanced” to customize the repeating interval and repeating type (repeat from completion date or repeat from due date).
 
-You can choose such as Daily/Weekly/Monthly/Yearly/ or click “Advanced” to customize the repeating interval and repeating type (repeat from completion date or repeat from due date).
-![](../images/image011.png)
+
+<br />
+**Advanced repeating mode**
+
+|repeating interval | mode |
+| -- | -- |
+|Daily | Every Day |
+| Weekly | Repeat every N Weeks<br />Repeat from **Due date/Completion date**<br />Repeat on S/M/T/W/T/F/S|
+| Monthly |  Repeat every N Months<br />Repeat from **Due date/Completion date**<br />Repeat by **day of the month/day of the week**|
+| Yearly | Repeat by the **day of the year** |
+
+![](../images/recurring.png)

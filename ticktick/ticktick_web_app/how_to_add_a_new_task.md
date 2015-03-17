@@ -1,6 +1,28 @@
-## How to add a new task?
-You can add new tasks in the quick add bar directly. Then, click the "due date" icon on the right panel to assign a due date. Or, after entering the task content, you can add “*”and suggested due dates will appear for you to choose. Or, you can type due dates & reminder time by yourself. Then, tab the “Enter” key and task will be saved in “Inbox” automatically.
+##How to add a new task?
+You can add new tasks in the quick add bar directly. Then, click the “due date” icon on the right panel to assign a due date.
 
-If you wish to save tasks in another list, you can add “^” after the task content so that you can choose list when adding new tasks.
+<br />
 
-![](../images/image007.png)
+####**-How to use shortcuts to add a new task?**
+
+**1.The shortcut for due date:**
+
+Type “*” in the add bar and suggested due dates will appear for you to choose. Or, you can type due dates & reminder time by yourself. Then, tap the “Enter” key and task will be saved in “Inbox” automatically.
+
+
+
+**2.The shortcut for list:**
+
+Type “^” and suggested lists (all of the self-defined lists) will appear for you to choose.
+
+
+**3.Example:**
+
+You can enter “Go to Party^Entertainment*Tuesday”, then you will find a new task “Go to party” with due date on Tuesday and in the list “Entertainment”.
+
+
+<video width="800" height="500" controls="controls">
+  <source https://www.youtube.com/watch?v=RYv8Lz9t89M&list=PLbWRKVi0_aTH4wo0Z2kCuMy7RHV7t9onw&index=1="movie.ogg" type="video/ogg">
+  <source https://www.youtube.com/watch?v=RYv8Lz9t89M&list=PLbWRKVi0_aTH4wo0Z2kCuMy7RHV7t9onw&index=1="movie.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
