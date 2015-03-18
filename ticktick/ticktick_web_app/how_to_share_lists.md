@@ -11,12 +11,7 @@
 
 No! If you want to share a list with more than one recipient, only you should upgrade to Pro.
 
-<video width="800" height="500" controls="controls">
-  <source https://www.youtube.com/watch?v=YuD9gS2DQyY&list=PLbWRKVi0_aTH4wo0Z2kCuMy7RHV7t9onw&index=2="movie.ogg" type="video/ogg">
-  <source https://www.youtube.com/watch?v=YuD9gS2DQyY&list=PLbWRKVi0_aTH4wo0Z2kCuMy7RHV7t9onw&index=2="movie.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
+<iframe width="700" height="400" src="https://www.youtube.com/embed/YuD9gS2DQyY?list=PLbWRKVi0_aTH4wo0Z2kCuMy7RHV7t9onw" frameborder="0" allowfullscreen></iframe>
 
 
 

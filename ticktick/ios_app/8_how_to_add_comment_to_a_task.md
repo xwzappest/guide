@@ -7,8 +7,4 @@ Tap the exiting comment and then long press it in the next page where allows you
 
 You can watch the video below from 00:34 to 00:55.
 
-<video width="800" height="500" controls="controls">
-  <source https://www.youtube.com/watch?v=CTW6geOAGtw&list=PLbWRKVi0_aTEwRLCS5T4MD0wCQU_ve8xW&index=2="movie.ogg" type="video/ogg">
-  <source https://www.youtube.com/watch?v=CTW6geOAGtw&list=PLbWRKVi0_aTEwRLCS5T4MD0wCQU_ve8xW&index=2="movie.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/CTW6geOAGtw?list=PLbWRKVi0_aTEwRLCS5T4MD0wCQU_ve8xW" frameborder="0" allowfullscreen></iframe>

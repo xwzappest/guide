@@ -4,5 +4,4 @@ If you’d like to migrate your events from your local calendar service to TickT
 “Calendar” is a hidden list as default, so first you should enable it (turn to 2.3.1 for details). After that, enable “Calendar” first and then check off your local calendar that you want to display in TickTick.
 
 
-![](../images/image2.4.12X.png)
 

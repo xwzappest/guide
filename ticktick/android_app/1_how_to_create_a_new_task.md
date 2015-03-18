@@ -1,10 +1,6 @@
 ### How to use different ways to create a new task?
 
-<video width="800" height="500" controls="controls">
-  <source https://www.youtube.com/watch?v=-npsJ9oIasU&index=3&list=PLbWRKVi0_aTFbQcYoQHar2TR88yoO190U="movie.ogg" type="video/ogg">
-  <source https://www.youtube.com/watch?v=-npsJ9oIasU&index=3&list=PLbWRKVi0_aTFbQcYoQHar2TR88yoO190U="movie.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/-npsJ9oIasU?list=PLbWRKVi0_aTFbQcYoQHar2TR88yoO190U" frameborder="0" allowfullscreen></iframe>
 
 
 There are four ways to add a new task.

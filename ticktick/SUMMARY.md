@@ -6,13 +6,13 @@
    * [What is TickTick Pro?](is_ticktick_free.md)
    * [Does TickTick have an API?](does_ticktick_have_an_api.md)
    * [How can I get refund?](how_can_i_get_refund.md)
-* [TickTick web app](ticktick_web_app/README.md)
-   * [Preference Settings](ticktick_web_app/preference_settings.md)
+* [TickTick web app]
+   * [Preference Settings]
        * [What should I do when due dates are different among different platforms?](ticktick_web_app/how_to_set_timezone.md)
        * [Where is “Start Day of Week” used?](ticktick_web_app/how_to_set_the_start_of_week.md)
        * [How to set Time Format?](ticktick_web_app/how_to_set_time_format.md)
        * [What is Daily Alert Time?](ticktick_web_app/how_to_set_daily_alert_time.md)
-   * [Account Settings](ticktick_web_app/account_settings.md)
+   * [Account Settings]
        * [How to change the email address of my account?](ticktick_web_app/how_to_change_the_email_address_of_your_account.md)
        * [How to upload profile image?](ticktick_web_app/how_to_upload_your_profile_image.md)
        * [How to change password?](ticktick_web_app/how_to_change_password.md)
@@ -20,7 +20,7 @@
        * [Can I delete my account?](ticktick_web_app/how_to_delete_your_account.md)
        * [How to upgrade to Pro?](ticktick_web_app/how_to_upgrade_to_pro.md)
        * [Where can I redeem a TickTick gift card?](ticktick_web_app/where_can_i_redeem_a_ticktick_gift_certificate.md)
-   * [List Management](ticktick_web_app/list_management.md)
+   * [List Management]
        * [How to add a new list?](ticktick_web_app/how_to_add_a_new_list.md)
        * [How to edit a list?](ticktick_web_app/how_to_edit_lists.md)
        * [How to share a list with others?](ticktick_web_app/how_to_share_lists.md)
@@ -28,7 +28,7 @@
        * [How to close an inactive list temporarily?](ticktick_web_app/how_to_close_a_list.md)
        * [How to delete a list?](ticktick_web_app/how_to_delete_a_list.md)
        * [What is “Inbox”? ](ticktick_web_app/what_is_inbox.md)
-   * [Task management](ticktick_web_app/task_management.md)
+   * [Task management]
        * [How to add a new task?](ticktick_web_app/how_to_add_a_new_task.md)
        * [How to add a recurring task?](ticktick_web_app/how_to_add_a_recurring_task.md)
        * [How to add a new task via email? ](ticktick_web_app/how_to_add_a_new_via_email.md)
@@ -45,13 +45,13 @@
        * [How to import tasks from other apps into TickTick?](ticktick_web_app/how_to_import_tasks_from_other_apps_into_ticktick.md)
        * [How to change order of tasks within a list?](ticktick_web_app/how_to_change_order_of_tasks.md)
        * [How many shortcuts are there in TickTick?](ticktick_web_app/how_many_shortcuts_are_there_in_ticktick.md)
-   * [Calendar Subscription](ticktick_web_app/calendar_subscription.md)
+   * [Calendar Subscription]
        * [How to subscribe TickTick in my own calendar app? ](ticktick_web_app/how_to_subscribe_ticktick_in_my_own_calendar_app.md)
        * [How to subscribe my calendar in TickTick? [Pro only]](ticktick_web_app/how_to_subscribe_my_calendar_in_ticktick.md)
        * [What is "Calendar View"? [Pro only]](ticktick_web_app/what_is_calendar_view.md)
        * [What is "Mini Calendar"? [Pro only]](ticktick_web_app/what_is_mini_calendar.md)
-* [TickTick Android App](android_app/README.md)
-   * [Installation & Account](android_app/installation_&_account.md)
+* [TickTick Android App]
+   * [Installation & Account]
        * [How can I get the TickTick Android app?](android_app/1_how_can_i_get_the_ticktick_android_app.md)
        * [How to sign in?](android_app/2_how_to_sign_in.md)
        * [How to sign out?](android_app/3_how_to_sign_out.md)
@@ -63,7 +63,7 @@
        * [How to change the theme?](android_app/7_how_to_choose_app_theme.md)
        * [How to change my profile picture, username, email address and password?](android_app/8_how_to_change_my_account_info.md)
        * [How to adjust font size?](android_app/how_to_change_font_size.md)
-   * [Task Management](android_app/task_management.md)
+   * [Task Management]
        * [How to use different ways to create a task?](android_app/1_how_to_create_a_new_task.md)
        * [How to create checklists?](android_app/how_to_create_checklists_in_a_subtask.md)
        * [ How to edit multiple tasks at a time?](android_app/2_how_to_batch_edit_tasks.md)
@@ -80,7 +80,7 @@
        * [How to make a phone call directly through a task detail page?](android_app/can_i_make_a_phone_call_directly_through_a_task.md)
        * [How to assign a task to someone?](android_app/how_to_assign_a_task_list.md)
        * [How to search a task?](android_app/how_to_search_a_task.md)
-   * [List Management](android_app/list_management.md)
+   * [List Management]
        * [How many predefined lists are there in TickTick?](android_app/how_many_default_lists_are_there_in_ticktick.md)
        * [ How to create a task list?](android_app/1_how_to_create_a_task_list.md)
        * [How to edit or delete a task list?](android_app/2_how_to_editrenamedelete_a_task_list.md)
@@ -88,11 +88,11 @@
        * [How to share task lists with others?](android_app/4_how_to_share_a_task_list.md)
        * [How to accept a shared list?](android_app/how_to_accept_lists_from_others.md)
        * [How to sort task lists?](android_app/5_how_to_change_the_order_of_task_lists.md)
-   * [Calendar](android_app/calendar.md)
+   * [Calendar]
        * [How to display local calendar events in TickTick?](android_app/1_how_to_display_local_calendar_events_in_ticktick.md)
        * [How to subscribe other calendar service? [Pro only]](android_app/3_how_to_subscribe_other_calendar_service.md)
        * [ How to add calendar events in TickTick?](android_app/2_how_to_add_calendar_events_in_ticktick.md)
-   * [Reminder](android_app/reminder.md)
+   * [Reminder]
        * [How to set reminder of a task?](android_app/1_how_to_set_due_date_&_reminder_for_a_task.md)
        * [How to remove due date & reminder of a task?](android_app/2_how_to_remove_due_date_&_reminder_for_a_task.md)
        * [How to clear due date and reminder?](android_app/how_to_discard_changes_of_due_date_and_reminder.md)
@@ -103,18 +103,18 @@
        * [How to set “Daily Alert”?](android_app/7_how_to_set_daily_alert.md)
        * [How to make notifications persistent?](android_app/9_how_to_make_notifications_persistent.md)
        * [What is "Status Bar"?](android_app/8_how_to_enable_reminder_in_status_bar.md)
-   * [Widget](android_app/widget.md)
+   * [Widget]
        * [Why I can’t find TickTick widget?](android_app/1_why_i_cant_find_ticktick_widget.md)
        * [Which kind of widgets does TickTick have?](android_app/2_which_kind_of_widgets_does_ticktick_have.md)
        * [How to configure widget?](android_app/3_how_to_configure_widget.md)
        * [How to switch lists on widget?](android_app/4_how_to_switch_lists_on_widget.md)
        * [How to add tasks and enter TicKTick through widget?](android_app/how_to_add_tasks_and_enter_ticktick_through_widget.md)
        * [ What’s the difference between TickTick Undone & TickTick shortcut?](android_app/5_whats_the_difference_between_ticktick_undone_11_&_ticktick_shortcut.md)
-   * [Other](android_app/other.md)
+   * [Other]
        * [How can I contact with TickTick Team?](android_app/how_can_i_contact_with_ticktick_team.md)
        * [How to recommend TickTick?](android_app/how_to_rate_ticktick.md)
-* [TickTick iOS App](ios_app/README.md)
-   * [Installation & Account](ios_app/installation_&_account.md)
+* [TickTick iOS App]
+   * [Installation & Account]
        * [How can I get the TickTick iPhone app?](ios_app/1_how_can_i_get_the_ticktick_iphone_app.md)
        * [How to sign in?](ios_app/2_how_to_sign_in.md)
        * [How to sign out?](ios_app/3_how_to_sign_out.md)
@@ -125,7 +125,7 @@
        * [How to lock the app? [Touch ID only]](ios_app/how_to_lock_the_app.md)
        * [How to change language and font size in TickTick？](ios_app/how_to_change_language_and_font_size_in_ticktick.md)
        * [What does the app badge count for?](ios_app/what_does_the_app_badge_count_for.md)
-   * [Task Management](ios_app/task_management.md)
+   * [Task Management]
        * [How to create a new task?](ios_app/1_how_to_create_a_new_task.md)
        * [How to edit mutiple tasks at a time?](ios_app/2_how_to_batch_edit_tasks.md)
        * [How to change the order of tasks?](ios_app/3_how_to_change_the_order_of_tasks.md)
@@ -139,7 +139,7 @@
        * [How to add “Tags” to a task?](ios_app/9how_to_add_tags_to_a_task.md)
        * [How to assign a task to someone?](ios_app/how_to_assign_tasks_to_others.md)
        * [How to search for a task?](ios_app/how_to_search_for_a_task.md)
-   * [List Management](ios_app/list_management.md)
+   * [List Management]
        * [How many “Smart lists” are there in TickTick?](ios_app/how_many_default_lists_are_there_in_ticktick.md)
        * [How to create a task list?](ios_app/1_how_to_create_a_task_list.md)
        * [How to edit or delete a task list?](ios_app/2_how_to_editrenamedelete_a_task_list.md)
@@ -147,32 +147,32 @@
        * [How to share a task list?](ios_app/4_how_to_share_a_task_list.md)
        * [How to accept a shared list?](ios_app/how_to_accept_a_shared_list.md)
        * [How to sort task lists?](ios_app/5_how_to_change_the_order_of_task_lists.md)
-   * [Calendar](ios_app/calendar.md)
+   * [Calendar]
        * [How to display local calendar events in TickTick?](ios_app/1_how_to_display_local_calendar_events_in_ticktick.md)
        * [How to subscribe other calendar service?](ios_app/3_how_to_subscribe_other_calendar_service.md)
        * [How to add calendar events in TickTick ?](ios_app/2_how_to_add_calendar_events_in_ticktick.md)
-   * [Reminder](ios_app/reminder.md)
+   * [Reminder]
        * [How to set reminder for a task?](ios_app/1_how_to_set_due_date_&_reminder_for_a_task.md)
        * [How to clear due date & reminder settings of a task?](ios_app/3_how_to_remove_due_date_&_reminder_for_a_task.md)
        * [How to set “Daily Alert”?](ios_app/4_how_to_set_daily_alert.md)
        * [How to set “location reminder”?](ios_app/5_how_to_set_location_reminder.md)
-   * [Other](ios_app/other.md)
+   * [Other]
        * [How can I contact with TickTick Team?](ios_app/how_can_i_contact_with_ticktick_team.md)
        * [How to recommend TickTick?](ios_app/how_to_recommend_ticktick.md)
-* [Chrome Extension](chrome_extension_app/README.md)
+* [Chrome Extension]
    * [Installation & Account](chrome_extension_app/installation_&_account.md)
        * [How can I get the TickTick Chrome Extension ?](chrome_extension_app/1_how_can_i_get_the_ticktick_chrome_extension_app.md)
        * [How to sign in?](chrome_extension_app/2_how_to_sign_in.md)
        * [How to sign out?](chrome_extension_app/3_how_to_sign_out.md)
        * [What does the number on the icon stand for?](chrome_extension_app/4_what_does_the_number_on_the_icon_stand_for.md)
-   * [Task Management](chrome_extension_app/task_management.md)
+   * [Task Management]
        * [How to create a new task?](chrome_extension_app/1_how_to_create_a_new_task.md)
        * [How to edit tasks?](chrome_extension_app/2_how_to_edit_tasks.md)
        * [How to create a subtask?](chrome_extension_app/3_how_to_create_a_subtask.md)
        * [How to add note to a task?](chrome_extension_app/4_how_to_add_note_to_a_task.md)
        * [How to order tasks?](chrome_extension_app/5_how_to_order_tasks.md)
        * [How to save webpage to tasks?](chrome_extension_app/6_how_to_save_webpage_to_tasks.md)
-   * [List Management](chrome_extension_app/list_management.md)
+   * [List Management]
        * [How to create a task list?](chrome_extension_app/1_how_to_create_a_task_list.md)
        * [How to edit a task list?](chrome_extension_app/2_how_to_edit_a_task_list.md)
        * [How to delete a task list?](chrome_extension_app/3_how_to_delete_a_task_list.md)

@@ -21,8 +21,4 @@ Type “^” and suggested lists (all of the self-defined lists) will appear for
 You can enter “Go to Party^Entertainment*Tuesday”, then you will find a new task “Go to party” with due date on Tuesday and in the list “Entertainment”.
 
 
-<video width="800" height="500" controls="controls">
-  <source https://www.youtube.com/watch?v=RYv8Lz9t89M&list=PLbWRKVi0_aTH4wo0Z2kCuMy7RHV7t9onw&index=1="movie.ogg" type="video/ogg">
-  <source https://www.youtube.com/watch?v=RYv8Lz9t89M&list=PLbWRKVi0_aTH4wo0Z2kCuMy7RHV7t9onw&index=1="movie.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/RYv8Lz9t89M?list=PLbWRKVi0_aTH4wo0Z2kCuMy7RHV7t9onw" frameborder="0" allowfullscreen></iframe>

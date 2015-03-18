@@ -22,10 +22,5 @@ Please note the calendar URL can be got from your calendar settings. Take Google
 
 ![](../images/C7.png)
 
-<video width="800" height="500" controls="controls">
-  <source https://www.youtube.com/watch?v=zCsCP4VBUX4&index=3&list=PLbWRKVi0_aTH4wo0Z2kCuMy7RHV7t9onw="movie.ogg" type="video/ogg">
-  <source https://www.youtube.com/watch?v=zCsCP4VBUX4&index=3&list=PLbWRKVi0_aTH4wo0Z2kCuMy7RHV7t9onw="movie.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
+<iframe width="700" height="400" src="https://www.youtube.com/embed/zCsCP4VBUX4?list=PLbWRKVi0_aTH4wo0Z2kCuMy7RHV7t9onw" frameborder="0" allowfullscreen></iframe>
 
