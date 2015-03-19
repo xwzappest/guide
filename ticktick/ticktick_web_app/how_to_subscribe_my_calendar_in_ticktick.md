@@ -1,4 +1,4 @@
-###How to subscribe my calendar in TickTick? <mark>[Pro only]
+###How to subscribe my calendar in TickTick? <mark>[Pro only]</mark>
 This feature allows you to subscribe events from other calendar services such as Google Calendar in TickTick.
 
 <br />

@@ -1,4 +1,4 @@
-###What is “Calendar View”?<mark>[Pro only]
+###What is “Calendar View”?<mark>[Pro only]</mark>
 “Calendar View” shows tasks based on time frame just like Calendar does, which is more intuitive and clear. It is a premium feature available for Pro users only.
 
 <br />
