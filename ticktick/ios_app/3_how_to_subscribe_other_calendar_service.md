@@ -1,4 +1,4 @@
-###  How to subscribe other calendar service?<mark>[Pro only]
+###  How to subscribe other calendar service?<mark>[Pro only]</mark>
 If you want to display events from other calendar apps, you can subscribe them in TickTick.
 
 1.Slide the screen to the right and click the gear-shaped icon.

@@ -1,4 +1,4 @@
-### How to lock the app? <Mark>[Touch ID only]
+### How to lock the app? <Mark>[Touch ID only]</mark>
 
 Touch ID is available in TickTick, which you can use to lock TickTick. You should first have at least one fingerprint in Touch ID.
 

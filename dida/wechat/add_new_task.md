@@ -13,4 +13,4 @@
 5.	网页链接：朋友分享的来不及看的文章或者视频，分分钟保存成任务，提醒自己有时间了再看。
 
 
-<img src="../images/image044.png" width="180mm" height="320mm">
+<img src="images/image044.png" width="180mm" height="320mm">

@@ -1,7 +1,7 @@
 ###How can I get Refund?
 
 **-Yearly Subscription**
-<br />Refund is available within 14 days. You should send your TickTick account and the vertification email of your purchase to <mark>support@ticktick.com
+<br />Refund is available within 14 days. You should send your TickTick account and the vertification email of your purchase to <mark>support@ticktick.com</mark>
 
 <br />
 **-Monthly Subscription**
