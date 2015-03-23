@@ -1,7 +1,11 @@
 ###Where is “Start Day of Week” used?
-1.Due date calendar  ![](../images/C1.png)
+1.Due date calendar  
 
-2.Mini calendar (turn to 1.5.4 for details) ![](../images/miniC.png)
+![](../images/C1.png)
+
+2.Mini calendar (turn to 1.5.4 for details) 
+
+![](../images/miniC.png)
 
 <br />
 
