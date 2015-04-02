@@ -104,7 +104,7 @@
        * [使用标签](ios_app/3_manage_tasks_tags.md)
        * [合理排序](ios_app/3_manage_tasks_rank.md)
        * [批量管理]()
-   * [创建及管理清单]()
+   * [创建及管理清单](ios_app/4_create&manage_list.md)
        * [清单分组]()
    * [分享和协作]()
        * [分享清单]()
