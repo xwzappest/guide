@@ -17,8 +17,6 @@
 2. 点击「升级到高级账户」；
 <img src="/images/image3141.jpg" title="升级" width="300" />
 3. 选择按月或者是按年来购买高级账户。
-
-
 <img src="/images/image3142.jpg" title="升级2" width="300" />
 
 
