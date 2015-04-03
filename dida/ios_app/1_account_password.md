@@ -6,4 +6,4 @@
 <br >去你的注册邮箱查收邮件，按照邮件里的指示重新设置密码即可。
 
 
-<img src="../images/image3120.jpg" title="忘记密码" width="300" />
+<img src="../images/image4111.jpg" title="忘记密码" width="300" />

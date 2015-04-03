@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [导航](About_dida/README.md)
 * [网页端](ticktick_web_app/README.md)
    * [偏好设置](ticktick_web_app/preference_settings.md)
@@ -94,10 +95,10 @@
 * [iOS应用](ios_app/README.md)
    * [注册和登陆](ios_app/1_account.md)
        * [忘记密码](ios_app/1_account_password.md)
-       * [修改账号或密码](ios_app/1_account_change_password.md)
+       * [修改账户信息](ios_app/1_account_change_password.md)
        * [升级到高级版](ios_app/1_account_upgrade.md)
    * [创建新的任务](ios_app/2_create_new_task.md)
-       * [设置时间提醒](ios_app/2_create_remind.md)
+       * [设置提醒](ios_app/2_create_remind.md)
        * [设置重复任务](ios_app/2_create_new_repeat.md)
        * [子任务/列表任务](ios_app/2_create_list_tasks.md)
        * [添加附件](ios_app/2_create_new_attachment.md)

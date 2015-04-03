@@ -5,7 +5,7 @@
 <br >我们将用户手册根据你所使用的平台不同，分别为[Web端](ticktick_web_app/README.md)、[Android应用](android_app/README.md)、[iOS应用](ios_app/README.md)、[Chrome插件](chrome_extension_app/README.md)、Mac端。
 <br >点击上方图标，展开目录快速查找需要了解的功能。
 <br ><img src="../images/image0001.png" title="设置账号和密码" width="300" />
-<br >如果在这里没有解决你的问题或者对我们有什么建议，你可以再帮助论坛发起提问或者直接邮件support@dida365.com
+<br >如果在这里没有解决你的问题或者对我们有什么建议，你可以在[帮助论坛](https://help.dida365.com/)发起提问或者直接邮件support@dida365.com
 
 #  关于滴答清单
 ##1.	滴答清单是什么?
