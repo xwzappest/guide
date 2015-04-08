@@ -13,12 +13,9 @@
 更多高级帐户专享功能详情，请访问[滴答清单高级帐户页面](https://dida365.com/about/upgrade)
 
 <br >应用内升级，请按以下步骤：
-1. 屏幕向右滑动，点击右上角齿轮标志<img src="/images/image4131.png" title="设置" width="20" />
-，进入设置；
-2. 点击「升级到高级账户」；
-<img src="/images/image4132.jpg" title="升级" width="300" />
+1. 屏幕向右滑动，点击头进入账户信息；
+2. 点击「升级到高级账户」或「续费」；
 3. 选择按月或者是按年来购买高级账户。
-<br ><img src="/images/image4133.jpg" title="升级2" width="300" />
 
 
 如果你已经拥有滴答清单Pro兑换码，需要登录Web版滴答清单兑换。请参考[升级成高级账户](ticktick_web_app/how_to_upgrade_to_pro.md)

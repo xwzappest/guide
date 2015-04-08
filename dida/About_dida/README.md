@@ -15,6 +15,13 @@
 滴答清单目前适用于安卓, iPhone, iPad以及谷歌浏览器插件。同时, 滴答清单有自己的云端dida365.com,可以让您在电脑上操作和备份任务数据。
 
 ##3. 下载最新版本的滴答清单
+立即安装滴答清单到所有设备：
+[Iphone](https://itunes.apple.com/cn/app/di-da-qing-dan-dai-ban-shi/id626144601?mt=8)
+、[Android](https://www.dida365.com/static/getApp/download?type=apk)
+、[Mac](https://www.dida365.com/static/getApp/download?type=apk)
+、[Chrome插件和应用](http://www.dida365.com/about/crxDownload)
+、[Firefox插件](https://addons.mozilla.org/zh-CN/firefox/addon/%E6%BB%B4%E7%AD%94%E6%B8%85%E5%8D%95/)
+
 
 ##4.	滴答清单是免费的吗?
 任何人都可以免费创建滴答清单帐户。免费帐户可以使用这篇指南中介绍的所有核心功能和更多其他功能。
